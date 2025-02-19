@@ -1,0 +1,1 @@
+This repository demonstrates a common error in SQL queries involving the use of subqueries in the WHERE clause without proper correlation. The `bug.sql` file contains the problematic query, leading to inaccurate results.  The `bugSolution.sql` file provides a corrected version with proper correlation.
